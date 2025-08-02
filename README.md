@@ -14,3 +14,5 @@ The Podcast Idea Generator is a sophisticated API-driven application designed to
 A comprehensive social media analytics tool that scrapes user comments from platforms like Instagram, YouTube, and Facebook to analyze sentiment trends. It offers an interactive dashboard with actionable KPIs to track influencer campaign effectiveness and audience perception.
 - **[Medical docs Analyzer](https://boxsand.ai/medicalanalyzer)**
 A smart healthcare document analysis system capable of interpreting diverse medical documents including handwritten prescriptions and discharge summaries. It extracts key KPIs, detects fraud, verifies document legitimacy, and generates contextual follow-up questions — significantly optimizing insurance claim verifications.
+- **[Live Voice Agent](https://gidev2-973165020902.us-central1.run.app/)**
+An Intelligent live voice agent using gemini-live-voice model. The Agent is integrated with function calling, tool callings which can take action on behalf of user. This was a POC work for Flipkart Mitra & Gide.ai
