@@ -97,7 +97,7 @@ An Intelligent live voice agent using gemini-live-voice model. The Agent is inte
 
 <hr>
 
-- **[Gifinity]([https://gidev2-973165020902.us-central1.run.app/](https://boxsand.ai/gifinity))**
+- **[Gifinity](https://boxsand.ai/gifinity)**
 A fun App that generates sprite sheet image using Gemini nano Banana🍌model and converetd to animated GIF's 🎈
 
 <table>
