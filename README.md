@@ -95,3 +95,24 @@ An Intelligent live voice agent using gemini-live-voice model. The Agent is inte
   </tr>
 </table>
 
+<hr>
+
+- **[Gifinity]([https://gidev2-973165020902.us-central1.run.app/](https://boxsand.ai/gifinity))**
+A fun App that generates sprite sheet image using Gemini nano Banana🍌model and converetd to animated GIF's 🎈
+
+<table>
+  <tr>
+    <td><img width="1181" height="925" alt="image (47)" src="https://github.com/user-attachments/assets/632167cc-9c06-4395-8c12-f2d51a3d4e14" />
+    </td>
+    <td><img width="1498" height="839" alt="image (48)" src="https://github.com/user-attachments/assets/6fb2348d-0461-419e-b8c7-99a2e58eb794" />
+</td>
+    <td><img width="992" height="820" alt="image (49)" src="https://github.com/user-attachments/assets/2df84c06-2f37-48b3-9d64-823a24e9fdcf" />
+</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santosh-kumar-g-cloudambassadors/santosh-kumar-g-cloudambassadors/main/gifs.gif" alt="Animated GIF's" title="Animated GIF's" />
+</p>
+
+<hr>
