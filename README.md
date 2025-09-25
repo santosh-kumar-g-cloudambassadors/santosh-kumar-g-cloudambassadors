@@ -116,3 +116,24 @@ A fun App that generates sprite sheet image using Gemini nano Banana🍌model an
 </p>
 
 <hr>
+
+- **[Pixora](https://boxsand.ai/pixora)**
+AI-Powered Image and Video Generation Studio 🕹️ (Photoshop Agent & Video generation studio) 
+<table>
+  <tr>
+    <td>
+      <img width="1305" height="791" alt="image" src="https://github.com/user-attachments/assets/7d0e6280-b573-46fc-963b-277807269e94" />
+    </td>
+    <td>
+      <img width="1182" height="844" alt="image" src="https://github.com/user-attachments/assets/3cce9d33-724d-41ae-be85-3ea4fb7ebfde" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="1234" height="853" alt="image" src="https://github.com/user-attachments/assets/e36e5805-5586-49f4-95a0-e88d37ae71a6" />
+    </td>
+    <td>
+      <img width="1220" height="770" alt="image" src="https://github.com/user-attachments/assets/7614ff57-77ef-4357-9d47-d73e422580c1" />
+    </td>
+  </tr>
+</table>
